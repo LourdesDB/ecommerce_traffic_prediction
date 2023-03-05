@@ -7,7 +7,7 @@ The analysis is implemented in several steps:
 * Finding unusual patterns in hourly Google search traffic
 * Mining the search traffic data for seasonality
 * Relating the search traffic to stock price patterns, in order to see if the ability to predict search traffic can translate into the ability to successfully trade the stock
-* Creatinf a time series model with Prophet
+* Creating a time series model with Prophet
 * Forecasting revenues by using time series models
 
 ---
